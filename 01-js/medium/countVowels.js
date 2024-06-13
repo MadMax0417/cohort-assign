@@ -10,3 +10,17 @@ function countVowels(str) {
 }
 
 module.exports = countVowels;
+
+
+/* number of vowels = 0;
+
+first turn all into lowercase
+
+if (stri.contains = a | .... )
+{
+number of vowels += 1;
+}
+
+return number of vowels
+
+*/

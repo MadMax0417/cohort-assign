@@ -9,3 +9,15 @@ function isAnagram(str1, str2) {
 }
 
 module.exports = isAnagram;
+
+/*logic 
+
+first string will take input as anagram (rasp) 
+another will take rearranged word 
+
+then we will put  
+if, else
+
+stringMethod.contains 
+maybe we need a loop for this
+*/

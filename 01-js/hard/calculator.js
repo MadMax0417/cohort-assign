@@ -19,3 +19,6 @@
 class Calculator {}
 
 module.exports = Calculator;
+
+
+/* first revise class notes & refer documentation and if needed watch lecture  then  practice  */

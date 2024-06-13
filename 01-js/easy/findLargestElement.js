@@ -10,3 +10,14 @@ function findLargestElement(numbers) {
 }
 
 module.exports = findLargestElement;
+
+/*
+returns largest number easy
+
+
+loop > 
+biggest element 
+if arr[n] > biggest element then biggest elem = array [n]
+
+
+*/

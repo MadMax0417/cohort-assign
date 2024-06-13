@@ -8,3 +8,20 @@ function isPalindrome(str) {
 }
 
 module.exports = isPalindrome;
+
+
+/* 
+
+strLo = turn str into lowercase 
+let str2 = strLo make it backwords 
+
+
+if (str2===str1){
+
+return true
+}
+
+else {return false}
+
+
+*/

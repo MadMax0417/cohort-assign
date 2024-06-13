@@ -18,3 +18,6 @@ function calculateTotalSpentByCategory(transactions) {
 }
 
 module.exports = calculateTotalSpentByCategory;
+
+
+/* let's find out this later */
